@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTeste.CalculadoraSimples">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Calculadora" FontSize="Title" HorizontalTextAlignment="Center" TextColor="Black"/>
+            <Label  x:Name="lbResp" BackgroundColor="#05D2EB" FontSize="Title" TextColor="Black" />
+            <Label Text="Valor A: "  FontSize="Large"/>
+            <Entry x:Name="etValorA" Keyboard="Numeric" Placeholder="Informe um número"  FontSize="Large"/>
+            <Label Text="Valor B: "  FontSize="Large"/>
+            <Entry x:Name="etValorB" Keyboard="Numeric" Placeholder="Infome outro número" FontSize="Large"/>
+            
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="+" BackgroundColor="BlueViolet" Clicked="BtExecutar_Clicked"/>
+                <Button Text="-" BackgroundColor="#56AE1D" Clicked="BtExecutar_Clicked"/>
+                <Button Text="/" BackgroundColor="#AA4C42" Clicked="BtExecutar_Clicked"/>
+                <Button Text="*" BackgroundColor="#859440" Clicked="BtExecutar_Clicked"/>
+            </StackLayout>
+        
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

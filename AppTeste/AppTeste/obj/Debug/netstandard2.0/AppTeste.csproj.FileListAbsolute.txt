@@ -1,0 +1,15 @@
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\AppTeste.deps.json
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\AppTeste.dll
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\ref\AppTeste.dll
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\bin\Debug\netstandard2.0\AppTeste.pdb
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.csprojAssemblyReference.cache
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\ParOuImpar.xaml.g.cs
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.AssemblyInfoInputs.cache
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.AssemblyInfo.cs
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.csproj.CoreCompileInputs.cache
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.dll
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\ref\AppTeste.dll
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\AppTeste.pdb
+C:\Users\Joatha\Desktop\AppTeste\AppTeste\AppTeste\obj\Debug\netstandard2.0\CalculadoraSimples.xaml.g.cs
